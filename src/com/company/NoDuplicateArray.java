@@ -25,8 +25,11 @@ public class NoDuplicateArray {
 
     public Integer[] sortArray(){
         Arrays.sort(arr2);
+        System.out.println("array");
         return arr2;
+
     }
+
 
 }
 
